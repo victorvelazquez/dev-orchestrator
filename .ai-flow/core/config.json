@@ -1,0 +1,11 @@
+{
+  "version": "2.5.4",
+  "aiTools": [
+    "copilot"
+  ],
+  "createdAt": "2026-02-04T00:01:03.336Z",
+  "projectType": "backend",
+  "backend": true,
+  "frontend": false,
+  "mobile": false
+}
